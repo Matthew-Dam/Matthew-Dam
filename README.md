@@ -63,7 +63,7 @@ Applied physics and mathematics for engineering,
 This GitHub is where I document my journey and projects as I grow into a world-class engineer.
 
 ## Connect With Me
-LinkedIn: https://www.linkedin.com/in/matthew-damptey-9b188a399?utm_source=share_via&utm_content=profile&utm_medium=member_android
+LinkedIn: https://www.linkedin.com/in/matthew-damptey-9b188a399
 GitHub: Here you are...
 
 ⭐ **“The goal is not just to code. The goal is to understand intelligence and build it.”**
