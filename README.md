@@ -6,7 +6,8 @@ My goal is simple but serious: master technology and build systems that can chan
 
 I believe technology should not just be used — it should be understood at its deepest level.
 
-**Current Focus**
+## Current Focus
+
 Artificial Intelligence
 Robotics Engineering
 Python Programming
@@ -16,7 +17,8 @@ Physics concepts used in engineering
 
 I enjoy exploring the mathematics and physics behind intelligent systems, not just the programming.
 
-**What I’m Building**
+## What I’m Building
+
 Some of the systems I am currently developing or researching include:
 Advanced Python Applications
 AI Systems with memory and reasoning
@@ -26,7 +28,8 @@ Experimental intelligent software architectures
 
 I like building projects that push my understanding of programming and intelligence.
 
-**Technologies I Work With**
+## Technologies I Work With
+
 >>Python
 >>Git & GitHub
 >>Data Structures
@@ -36,7 +39,8 @@ I like building projects that push my understanding of programming and intellige
 
 I focus on learning the foundations deeply, because strong foundations create powerful engineers.
 
-**Long-Term Vision**
+## Long-Term Vision
+
 My long-term mission is to contribute to the future of:
 Artificial Intelligence
 Robotics
@@ -45,7 +49,8 @@ Human–machine interaction
 
 I want to build technology that feels alive, adaptive, and intelligent.
 
-**Current Learning Path**
+## Current Learning Path
+
 Right now I am studying:
 Python programming deeply
 Data structures and computational thinking
