@@ -2,7 +2,10 @@
 
 
 I am a technology student focused on Artificial Intelligence, Robotics Engineering, and Software Development.
-My goal is simple but serious: master technology and build systems that can change the world.
+
+My goal is simple but serious: 
+
+master technology and build systems that can change the world.
 
 I believe technology should not just be used — it should be understood at its deepest level.
 
