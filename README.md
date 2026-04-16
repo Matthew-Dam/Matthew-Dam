@@ -64,6 +64,7 @@ This GitHub is where I document my journey and projects as I grow into a world-c
 
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/matthew-damptey-9b188a399
+
 GitHub: Here you are...
 
 ⭐ **“The goal is not just to code. The goal is to understand intelligence and build it.”**
